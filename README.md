@@ -1,6 +1,6 @@
 # Colourer
 
-TODO: Write a gem description
+Just another Ruby String class extension. Adds methods to set text color
 
 ## Installation
 
@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+![usage.png](https://github.com/romanvbabenko/colourer/raw/master/spec/fixtures/usage.png)
 
 ## Contributing
 
